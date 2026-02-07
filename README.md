@@ -46,8 +46,8 @@ TB_Diagnosis_AI/
 ## ⚙️ Instalação
 
 ### 1. Clone o repositório
-git clone https://github.com/seu-usuario/tb-diagnosis-ai.git
-cd tb-diagnosis-ai
+git clone https://github.com/Paciencia163/sistema-detecao-tuberculose.git
+cd sistema-detecao-tuberculose
 
 ### 2. Crie um ambiente virtual (recomendado)
 # Windows
